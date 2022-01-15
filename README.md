@@ -1,2 +1,50 @@
-# Credit_Risk_Analysis
+# Credit Risk Analysis
 Module 17 Challenge
+
+## Overview of the Analysis:
+The purpose of this analysis is to use different machine learning techniques to determine credit card risk.
+
+## Results:
+* Random Oversampling
+  * Balanced Accuracy = 0.6285
+  * Precision (Ave) = 0.99
+  * Recall (Ave) = 0.66
+* SMOTE Oversampling
+  * Balanced Accuracy = 0.6303
+  * Precision (Ave) = 0.99
+  * Recall (Ave) = 0.64
+* Undersampling
+  * Balanced Accuracy = 0.5160
+  * Precision (Ave) = 0.99
+  * Recall (Ave) = 0.44
+* SMOTEENN (Combination)
+  * Balanced Accuracy = 0.6376
+  * Precision (Ave) = 0.99
+  * Recall (Ave) = 0.57
+* Random Forest
+  * Balanced Accuracy = 0.6721
+  * Precision (Ave) = 1.00
+  * Recall (Ave) = 1.00
+* Easy Ensemble
+  * Balanced Accuracy = 0.9255
+  * Precision (Ave) = 0.99
+  * Recall (Ave) = 0.94
+
+## Summary:
+Taking into account all three measurables, my recommendation would be to use the Easy Ensemble technique to evaluate risk in this case. 
+
+## Pics:
+
+[Ranking - Balanced Random Forest]();
+
+[Summary - Balanced Random Forest]();
+
+[Summary - Easy Ensemble]();
+
+[Summary - Random Oversampling]();
+
+[Summary - SMOTE Oversampling]();
+
+[Summary - SMOTEENN (Combination)]();
+
+[Summary - Undersampling]();
