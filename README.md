@@ -40,16 +40,23 @@ Taking into account all three measurables, my recommendation would be to use the
 
 ## Pics:
 
-[Ranking - Balanced Random Forest](https://github.com/tonyferri/Credit_Risk_Analysis/blob/main/resources/Ranking%20-%20Balanced%20Random%20Forest.png);
+### Ranking - Balanced Random Forest
+[Ranking - Balanced Random Forest](https://github.com/tonyferri/Credit_Risk_Analysis/blob/main/resources/Ranking%20-%20Balanced%20Random%20Forest.png)
 
-[Summary - Balanced Random Forest](https://github.com/tonyferri/Credit_Risk_Analysis/blob/main/resources/Summary%20-%20Balanced%20Random%20Forest.png);
+### Summary - Balanced Random Forest
+[Summary - Balanced Random Forest](https://github.com/tonyferri/Credit_Risk_Analysis/blob/main/resources/Summary%20-%20Balanced%20Random%20Forest.png)
 
-[Summary - Easy Ensemble](https://github.com/tonyferri/Credit_Risk_Analysis/blob/main/resources/Summary%20-%20Easy%20Ensemble.png);
+### Summary - Easy Ensemble
+[Summary - Easy Ensemble](https://github.com/tonyferri/Credit_Risk_Analysis/blob/main/resources/Summary%20-%20Easy%20Ensemble.png)
 
-[Summary - Random Oversampling](https://github.com/tonyferri/Credit_Risk_Analysis/blob/main/resources/Summary%20-%20Random%20Oversampling.png);
+### Summary - Random Oversampling
+[Summary - Random Oversampling](https://github.com/tonyferri/Credit_Risk_Analysis/blob/main/resources/Summary%20-%20Random%20Oversampling.png)
 
-[Summary - SMOTE Oversampling](https://github.com/tonyferri/Credit_Risk_Analysis/blob/main/resources/Summary%20-%20SMOTE%20Oversampling.png);
+### Summary - SMOTE Oversampling
+[Summary - SMOTE Oversampling](https://github.com/tonyferri/Credit_Risk_Analysis/blob/main/resources/Summary%20-%20SMOTE%20Oversampling.png)
 
-[Summary - SMOTEENN (Combination)](https://github.com/tonyferri/Credit_Risk_Analysis/blob/main/resources/Summary%20-%20SMOTEENN%20(Combination).png);
+### Summary - SMOTEENN (Combination)
+[Summary - SMOTEENN (Combination)](https://github.com/tonyferri/Credit_Risk_Analysis/blob/main/resources/Summary%20-%20SMOTEENN%20(Combination).png)
 
-[Summary - Undersampling](https://github.com/tonyferri/Credit_Risk_Analysis/blob/main/resources/Summary%20-%20Undersampling.png);
+### Summary - Undersampling
+[Summary - Undersampling](https://github.com/tonyferri/Credit_Risk_Analysis/blob/main/resources/Summary%20-%20Undersampling.png)
